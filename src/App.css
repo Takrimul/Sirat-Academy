@@ -1,0 +1,20 @@
+/* login body */
+
+.login-body{
+  padding: 1rem .5rem;
+  width: 70%;
+  background-color: brown;
+  
+}
+.login-body h2{
+  text-align: center;
+  color: white;
+}
+.login-body p{
+  text-align: center;
+  color: white;
+}
+
+#googleIcon{
+  width: 50px;
+}
